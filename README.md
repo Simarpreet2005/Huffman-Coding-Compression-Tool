@@ -1,6 +1,6 @@
 Huffman Coding Compression Tool 📜💾
 
-A Java-based implementation of Huffman Coding for lossless text file compression and decompression, achieving up to 50% file size reduction for repetitive inputs. This project showcases efficient data compression using variable-length prefix codes, with interactive console visualizations for enhanced understanding.
+A Java-based implementation of Huffman Coding for lossless text file compression and decompression, achieving up to 87.50% file size reduction for repetitive inputs. This project showcases efficient data compression using variable-length prefix codes, with interactive console visualizations for enhanced understanding.
 
 ✨ Features
 
